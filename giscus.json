@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://softwarestack.dev",
+    "https://www.softwarestack.dev"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ]
+}
